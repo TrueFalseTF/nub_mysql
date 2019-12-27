@@ -1,0 +1,27 @@
+.work_form {
+	position: absolute;
+}
+
+.area_work_form {
+	margin: 10px 0 0 10px ;
+}
+
+span {
+	margin-right: 5px;
+	float: left;
+}
+
+#position {
+	box-sizing: border-box;
+	width: 170px;
+}
+
+textarea {
+	box-sizing: border-box;
+	width: 170px;
+	resize: none;
+}
+
+.submit_key {
+	margin-left: 75%;
+}
